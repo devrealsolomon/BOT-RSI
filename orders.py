@@ -1,4 +1,4 @@
-import MetaTrader5 as mt5
+import mt5linux as mt5
 import datetime
 
 RSI_BUY_THRESHOLD = 70

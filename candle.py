@@ -1,5 +1,5 @@
 from to_candle import Candle
-import MetaTrader5 as mt5
+import mt5linux as mt5
 import datetime
 import pytz
 

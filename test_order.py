@@ -1,6 +1,6 @@
 import orders
 import time
-import MetaTrader5 as mt5
+import mt5linux as mt5
 
 mt5.initialize(login=50708418, server='ICMarketsEU-Demo',password='Yyaexkks')
 

@@ -1,5 +1,5 @@
 import bot
-import MetaTrader5 as mt5
+import mt5linux as mt5
 
 # Creating a bot
 b = bot.Bot(0.01, 60*15, "EURUSD")
